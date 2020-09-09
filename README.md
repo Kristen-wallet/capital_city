@@ -1,4 +1,4 @@
-#Capital City Viewer
+# Capital City Viewer
 
 This program is made by python programming language.
 The program objective is to show the capital city of any country.
