@@ -1,0 +1,7 @@
+Nepal:Kathmandu
+India:New Delhi
+Bangladesh:Dhaka
+Japan:Tokyo
+China:Beijing
+Italy:Rome
+Basu:Rabindar
